@@ -1,0 +1,12 @@
+pip~=24.0
+Jinja2~=3.1.4
+typing_extensions~=4.12.1
+MarkupSafe~=2.1.5
+Werkzeug~=3.0.3
+click~=8.1.7
+blinker~=1.8.2
+itsdangerous~=2.2.0
+pydantic~=2.7.3
+pydantic_core~=2.18.4
+setuptools~=65.5.0
+Flask~=3.0.3

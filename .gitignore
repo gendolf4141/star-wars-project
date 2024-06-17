@@ -1,0 +1,16 @@
+.idea/
+# Environments
+.env
+.venv
+.venv_win
+env/
+venv/
+venv_win/
+ENV/
+env.bak/
+venv.bak/
+venv_win.bak/
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
